@@ -1,2 +1,2 @@
 # Unidea
-Ambiguous question has
+Ambiguous question with clear answer
